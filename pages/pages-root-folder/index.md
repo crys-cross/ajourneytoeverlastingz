@@ -48,8 +48,17 @@ homepage: true
     <h2>Greetings!</h2>
     <p>This site was originally intended for personal use but feel free to view the story of Amber and Coal(Fake names...duh?). Names related to the colors of our eyes.
     </p>
-    <p><mark>BETA TESTING <small>MORE CONTENTS TO FOLLOW</small></mark>
+    <p>
+    <mark>BETA TESTING <small>MORE CONTENTS TO FOLLOW</small></mark>
     </p>
+	
+	<h3>UPDATES</h3>
+    <ul>
+    	<li>01/16/2017- Website Coding and Designing</li>
+    	<li>03/16/2017- Initial Website Upload</li>
+    	<li>03/23/2017- Second Chapter released</li>
+    </ul>
+    
   </div>
 </div>
 
