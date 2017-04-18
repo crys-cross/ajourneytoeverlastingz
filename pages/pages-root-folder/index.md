@@ -51,15 +51,7 @@ homepage: true
     <p>
     <mark>BETA TESTING <small>MORE CONTENTS TO FOLLOW</small></mark>
     </p>
-	
-	<h3>UPDATES</h3>
-    <ul>
-    	<li>01/16/2017- Website Coding and Designing</li>
-    	<li>03/16/2017- Initial Website Upload</li>
-    	<li>03/23/2017- Second Chapter released</li>
-    	<li>03/25/2017- Third Chapter released</li>
-    </ul>
-    
+
   </div>
 </div>
 
